@@ -1,0 +1,40 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 350 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "ABS CC3D (ON)"
+    ],
+    "filament_shrink": [
+        "99.5005%"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS @System",
+    "is_custom_defined": "0",
+    "name": "ABS CC3D (ON)",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "version": "2.3.1.10"
+}

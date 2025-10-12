@@ -1,0 +1,16 @@
+{
+    "compatible_printers": [
+        "Voron 2.4 350 0.4 nozzle"
+    ],
+    "filament_max_volumetric_speed": [
+        "33"
+    ],
+    "filament_settings_id": [
+        "Generic PHA @System - Copy"
+    ],
+    "from": "User",
+    "inherits": "Generic PHA @System",
+    "is_custom_defined": "0",
+    "name": "Generic PHA @System - Copy",
+    "version": "2.3.0.3"
+}
